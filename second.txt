@@ -1,5 +1,5 @@
 I added some text to the top
-I added more to the top 
+I added more to the top. 
 
 Here my second file.    
 This also a great file.
