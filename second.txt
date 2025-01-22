@@ -2,6 +2,5 @@ I added some text to the top
 
 Here my second file.    
 This also a great file.
-
-I added some text to the bottom  
+  
 I added more thext at the bottom
